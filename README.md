@@ -6,3 +6,4 @@ Desirable Packages to run the program.
 2.Matplotlib
 3.Pylab
 3.Scipy and Astropy 
+4.Jupyter Lab
